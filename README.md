@@ -29,4 +29,4 @@ Here’s an overview of the code structure:
 
 **Results:**
 
-Compute metrics like accuracy, confusion matrix, and F1-score.
+1.Compute metrics like accuracy, confusion matrix, and F1-score.
